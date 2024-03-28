@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SrUrso
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning systems analysis and development
+- ⚡ Fun fact: I can learn a lot!
